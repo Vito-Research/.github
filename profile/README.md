@@ -2,7 +2,7 @@
 
 Vito is creating software that uses vitals to detect infection in realtime. Recent studies have shown how infectious diseases which include but are not limited to, Covid-19 and the common flu, are detectable through changes in data that are being tracked through common smartwatches today. As this research gains more and more backing from higher institutions of health and science, it's time to create an application that can be used to help to create a safer environment for all.
 
-[![Discord Badge](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/06A43483-5FC9-45CA-AFE6-5543D60E9ACC/3C5DCB4C-03FC-44F5-BFDF-E4BD397ABBD2_2/Snas7xHgUiLvwz5akLYYmoxydu1tPQDxN3TaGNwJCnwz/Frame%2021.png)](https://discord.gg/neSrTVgbkF)
+[![Discord Badge](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/06A43483-5FC9-45CA-AFE6-5543D60E9ACC/3C5DCB4C-03FC-44F5-BFDF-E4BD397ABBD2_2/Snas7xHgUiLvwz5akLYYmoxydu1tPQDxN3TaGNwJCnwz/Frame%2021.png)](https://discord.gg/75ENnaJdSf)
 
 ### Vito has one goal...
 
