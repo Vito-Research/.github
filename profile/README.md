@@ -27,3 +27,5 @@ Vito is an application that runs all computations completely on your mobile devi
 Vito is striving to make a difference in the day-to-day world to ensure an added level of safety to all across the globe. Vito has been proven to catch illnesses through usage a day or two before symptoms occur. We at Vito believe that if we can try to get a new, innovative, and easily accessible way to track our own health, we can take steps to insure safrey to those who are more at risk.
 
 If you'd like to contribute, check out our repos!
+
+[Learn More](https://www.craft.do/s/jK9mX5dA3exvRw)
