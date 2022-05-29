@@ -33,6 +33,7 @@ If you'd like to contribute, check out our repos!
 
 ![VitoMethod](https://user-images.githubusercontent.com/67549402/170884801-bb4a4bd3-14ad-455f-96e6-da60d60bb6f3.png)
 
-![VitoApps](https://user-images.githubusercontent.com/67549402/170884803-58b2f76a-bc9d-4797-a601-7f3e511975d4.png)
+![VitoApps](https://user-images.githubusercontent.com/67549402/170884825-8dc68e33-1e9d-417d-bb82-99b026c1fc2b.png)
+
 
 
