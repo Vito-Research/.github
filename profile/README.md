@@ -1,4 +1,4 @@
- ![Vito Intro](https://github.com/Vito-Research/.github/blob/main/Twitter%20post%20-%204.png)
+![Twitter post - 5](https://user-images.githubusercontent.com/67549402/170847448-9094b9fb-c161-41b7-86a6-842efb0d2c2d.png)
 
 Vito is creating software that uses vitals to detect infection in realtime. Recent studies have shown how infectious diseases which include but are not limited to, Covid-19 and the common flu, are detectable through changes in data that are being tracked through common smartwatches today. As this research gains more and more backing from higher institutions of health and science, it's time to create an application that can be used to help to create a safer environment for all.
 
