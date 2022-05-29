@@ -29,3 +29,10 @@ Vito is striving to make a difference in the day-to-day world to ensure an added
 If you'd like to contribute, check out our repos!
 
 [Learn More](https://www.craft.do/s/jK9mX5dA3exvRw)
+
+
+![VitoMethod](https://user-images.githubusercontent.com/67549402/170884759-7226beab-5992-4192-ab15-792632436210.png)
+![VitoApps](https://user-images.githubusercontent.com/67549402/170884766-2c088e2d-563b-4ae3-9e09-c82a42ba6873.png)
+
+
+
