@@ -31,8 +31,8 @@ If you'd like to contribute, check out our repos!
 [Learn More](https://www.craft.do/s/jK9mX5dA3exvRw)
 
 
-![VitoMethod](https://user-images.githubusercontent.com/67549402/170884759-7226beab-5992-4192-ab15-792632436210.png)
-![VitoApps](https://user-images.githubusercontent.com/67549402/170884766-2c088e2d-563b-4ae3-9e09-c82a42ba6873.png)
+![VitoMethod](https://user-images.githubusercontent.com/67549402/170884801-bb4a4bd3-14ad-455f-96e6-da60d60bb6f3.png)
 
+![VitoApps](https://user-images.githubusercontent.com/67549402/170884803-58b2f76a-bc9d-4797-a601-7f3e511975d4.png)
 
 
