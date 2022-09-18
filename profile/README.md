@@ -47,13 +47,7 @@ Machine Learning:
 
 > andreas@vitovitals.org
 
-![IMG_5450 1.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/EA8C6911-2CBE-461B-B54E-17F5FDFDA963_2/MDdbusIQ0RbNQwwIPlhYGplOuNX0nGEWx8uUw9FxxR8z/IMG_5450%201.png)
-
-![Simulator Screen Shot - iPhone 13 - 2022-06-28 at 01.18.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/F402E650-9FA7-45FF-B93F-0F0A55642CAB_2/u5MHP0x4k48KbaYTnI97hyLAChplrDjO0mFMYZ186dEz/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-06-28%20at%2001.18.png)
-
-![Simulator Screen Shot - iPhone 13 - 2022-06-28 at 01.18-1.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/50C7F024-CFAB-42C6-BB78-A9DF767D1055_2/b9WMSHKpznYRQZTbke0c5W5CUceu19egA0gyMxg1ta0z/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-06-28%20at%2001.18-1.png)
-
-![IMG_5451 1.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/89931272-09A5-4D22-AD17-D93027FC665C_2/BoXVk3FtDtrda8EG3yYcFdzynDL05m5qrtUhvPZcFb4z/IMG_5451%201.png)
+![VitoMockups2](https://user-images.githubusercontent.com/67549402/190918353-50cd9fda-85b3-40e7-853f-5e4ce7ab31f9.png)
 
 
 
