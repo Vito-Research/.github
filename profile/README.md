@@ -1,39 +1,59 @@
-![Twitter post - 5](https://user-images.githubusercontent.com/67549402/170847475-0cc8f3b0-a45e-441a-ae8e-b64054c92489.png)
+> ### Student Driven Research to Combat Pandemics
 
+![VitoPromo2.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/D95095C0-51E6-4EFA-B187-5C6FF2DCD3B3_2/1WuV7vySVb9rTsqb9ci9wVTyXJyJCHOl4PeATLQGhH4z/VitoPromo2.png)
 
-Vito is creating software that uses vitals to detect infection in realtime. Recent studies have shown how infectious diseases which include but are not limited to, Covid-19 and the common flu, are detectable through changes in data that are being tracked through common smartwatches today. As this research gains more and more backing from higher institutions of health and science, it's time to create an application that can be used to help to create a safer environment for all.
+### **Why Vito?**
 
-[![Discord Badge](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/06A43483-5FC9-45CA-AFE6-5543D60E9ACC/3C5DCB4C-03FC-44F5-BFDF-E4BD397ABBD2_2/Snas7xHgUiLvwz5akLYYmoxydu1tPQDxN3TaGNwJCnwz/Frame%2021.png)](https://discord.gg/75ENnaJdSf)
+Andreas envisions a time where people like his Aunt who died from Covid-19 may be less prone to infection due to data driven insights.  Vito is an app and research study developed by a group of students to analyze the relationship between infection and smartwatch data to encourage further precautions against infection.
 
-### Vito has one goal...
+### **What Are We Solving?**
 
-1. Using data and analytical methods to come up with conclusive alerts that can warn you about possible illness.
+Covid-19 hits immunocompromised individuals the hardest:
 
-### What devices is Vito compatible with?
-* Android 
-* iOS
+- Family members surrounding people with an immunocompromised immune system want to reduce the chances of infection spreading to their loved one, Vito may encourage greater precautions while interacting with immunocompromised individuals driven by data.
 
-### Questions about security
-Vito is an application that runs all computations completely on your mobile device. With this, we ensure that your data stays your data and isn't being sent to a server to be manipulated or observed. Vito highly emphasises confidentiality so we built an application that uses data that is available already from your smarthwatch, such as heart rate and oxidation levels, and just runs it through models to see if there are any abnormalities.
+Covid-19 is unpredictable:
 
+- Individuals may experience varying levels of severity of infection of Covid-19 and may wreak havoc at any moment, Vito hopes to encourage further precautions when the likelihood of infection increases.
 
-### Vito exclusives:
-1. Stress Event Alerts - Stress alerts that may be due to infection and allow you, the user, to take what actions you deem appropriate
-2. Background Processing - Open the app once, give us health and notification permissions, then the app works in the background constantly and will send a notification      if there is a change in physiological markers
+Covid-19 testing is in short supply during waves:
 
+- Covid-19 waves pose stress on our healthcare system, with testing accessibility decreasing, Vito may be a tool to prioritize testing for individuals with a higher likelihood of infection.
 
+### **What's Our Approach?**
 
-### Why Vito?
-Vito is striving to make a difference in the day-to-day world to ensure an added level of safety to all across the globe. Vito has been proven to catch illnesses through usage a day or two before symptoms occur. We at Vito believe that if we can try to get a new, innovative, and easily accessible way to track our own health, we can take steps to insure safrey to those who are more at risk.
+Physiological Data Derived from Smartwatches:
 
-If you'd like to contribute, check out our repos!
+- Heart Rate - Research suggests heart rate increases during infection
+- Respiration Rate - Research suggests respiration rate increases during infection
+- Blood Oxygen - Research suggests respiration rate decreases during infection
+- Heart Rate Variability - Research suggests heart rate variability decreases during infection
 
-[Learn More](https://www.craft.do/s/jK9mX5dA3exvRw)
+Environmental Factors:
 
+- Environmental Audio Exposure -  Hypothesized to measure occurrences of more densely populated areas without location or microphone access
+- Rate of Hand Washing Events - Known to decrease the chances of infection, hand washing is key to estimating probability of infection
+- Regional Rate of Covid-19 Transmission - Areas with higher Covid-19 cases increase the likelihood of infection
 
-![VitoMethod](https://user-images.githubusercontent.com/67549402/170884801-bb4a4bd3-14ad-455f-96e6-da60d60bb6f3.png)
+Deterministic Finite State Machine:
 
-![VitoApps](https://user-images.githubusercontent.com/67549402/170884825-8dc68e33-1e9d-417d-bb82-99b026c1fc2b.png)
+- A level based system to quantify chances of infection based on the above data types
+
+Machine Learning:
+
+- In development
+
+> Have a question or want to chat?
+
+> andreas@vitovitals.org
+
+![IMG_5450 1.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/EA8C6911-2CBE-461B-B54E-17F5FDFDA963_2/MDdbusIQ0RbNQwwIPlhYGplOuNX0nGEWx8uUw9FxxR8z/IMG_5450%201.png)
+
+![Simulator Screen Shot - iPhone 13 - 2022-06-28 at 01.18.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/F402E650-9FA7-45FF-B93F-0F0A55642CAB_2/u5MHP0x4k48KbaYTnI97hyLAChplrDjO0mFMYZ186dEz/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-06-28%20at%2001.18.png)
+
+![Simulator Screen Shot - iPhone 13 - 2022-06-28 at 01.18-1.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/50C7F024-CFAB-42C6-BB78-A9DF767D1055_2/b9WMSHKpznYRQZTbke0c5W5CUceu19egA0gyMxg1ta0z/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-06-28%20at%2001.18-1.png)
+
+![IMG_5451 1.png](https://res.craft.do/user/full/23a03a79-af5e-1af9-b4ff-27170389b6b1/doc/66DA62D7-BB94-4646-B962-D3A61A4476EE/89931272-09A5-4D22-AD17-D93027FC665C_2/BoXVk3FtDtrda8EG3yYcFdzynDL05m5qrtUhvPZcFb4z/IMG_5451%201.png)
 
 
 
